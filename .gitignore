@@ -1,15 +1,60 @@
-# Remix compiler artifacts
-**/artifacts/
-**/artifacts/**
+# 依赖包
+node_modules/
+package-lock.json
+yarn.lock
 
-# Remix plugin state folders
-deps/
-states/
+# 编译输出
+artifacts-pvm/
+cache-pvm/
+typechain/
+typechain-types/
 
-# Debug info
-*.dbg.json
-*.tsbuildinfo
-
-# Optional
+# 环境变量
 .env
 .env.local
+.env.*.local
+
+# IDE配置
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 测试覆盖率报告
+coverage/
+coverage.json
+
+# 构建输出
+dist/
+build/
+out/
+
+# 其他
+.temp/
+.tmp/
+.cache/
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-420420421
