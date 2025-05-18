@@ -51,11 +51,7 @@ AutoLaunch 是一个完全链上、无需许可的资产发售平台，支持用
 ## 🚀 快速开始
 
 ```bash
-git clone https://github.com/yourname/autolaunch
-cd autolaunch
+git clone https://github.com/Genirsx/AutoLaunch.git
 
-# 安装前端依赖
-cd frontend
 npm install
-npm run dev
 ```
