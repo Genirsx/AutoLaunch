@@ -1,6 +1,16 @@
 # Launchpad 项目
 
+<p align="center">
+  <img src="images/hack.jpg" alt="PolkaPlay Mini Hack Banner" width="600"/>
+</p>
+
+<p align="center">
+  🥈 Proudly won <strong>2nd Place</strong> in the <strong>PolkaPlay Mini Hack Demo Day</strong>!  
+  👉 <a href="https://x.com/zhouwhs/status/1929848078657610093">Check out my tweet on X</a>
+</p>
+
 这是一个基于 Hardhat 的 Launchpad 项目，用于创建和管理代币发行项目。
+
 
 ## 项目演示
 
